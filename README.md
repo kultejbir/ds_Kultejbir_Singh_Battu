@@ -13,7 +13,8 @@ to understand how emotions such as fear and greed affect trading activity, profi
 1. This project was developed and executed using Google Colab.
 2. All required Python libraries (pandas, matplotlib, seaborn) are pre-installed in Google Colab.
 3. Upload the provided CSV files (`fear_greed_index.csv` and `historical_data.csv`) to the Colab environment before running the notebook.
-4. Run all cells in `notebook_1.ipynb` sequentially to reproduce the analysis and visualizations.
+   NOTE : The `historical_data.csv` exceeds GitHub’s file size limit and is provided via a Google Drive link.
+5. Run all cells in `notebook_1.ipynb` sequentially to reproduce the analysis and visualizations.
 
 ## Notes
 - The Fear & Greed Index data is available at a daily level, while trader data is event-level.
